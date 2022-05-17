@@ -68,6 +68,7 @@ matrix:
     - sudo: false
       dist: precise
       env: DIST=precise STACK=EC2
+    
     # - sudo: required
     #   dist: precise
     #   env: DIST=precise STACK=GCE
